@@ -1,0 +1,64 @@
+#root {
+  font-family: Helvetica, sans-serif;
+}
+
+header {
+  background-color: rgb(108, 108, 240);
+  display: flex;
+  color: #fff;
+}
+
+header > img {
+  width: 120px;
+  margin: 12px;
+}
+
+header h1 {
+  margin-top: 5%;
+}
+
+.grid-filmes {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  column-gap: 20px;
+  row-gap: 12px;
+  padding: 10px;
+}
+
+.grid-item {
+  display: flex;
+  border: 2px solid #353434;
+  border-radius: 8px;
+  padding: 12px;
+}
+
+.capa-filme {
+  width: 200px;
+  height: 300px;
+  margin-right: 10px;
+}
+
+.genero-duracao {
+  font-weight: bold;
+}
+
+.sinopse {
+  font-size: small;
+}
+
+.h2-btn {
+  display: flex;
+  justify-content: space-between;
+}
+
+.h2-btn > button {
+  margin: 12px;
+  background-color: blue;
+  color: #fff;
+  font-size: 14px;
+  font-weight: bold;
+  border-radius: 8px;
+  border: 0;
+  padding: 12px;
+  cursor: pointer;
+}
