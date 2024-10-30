@@ -1,0 +1,60 @@
+/* *{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+} */
+#root{
+  font-family: Arial, Helvetica, sans-serif;
+}
+header {
+  background-color: rgb(110, 110, 226);
+  display: flex;
+  color: #FFF;
+}
+header > img{
+  width: 120px;
+  margin: 12px;
+}
+header h1 {
+  margin-top: 30px;
+
+}
+.grid-filmes{
+  display: grid;
+  grid-template-columns: auto auto auto;
+  column-gap: 20px;
+  row-gap: 12px;
+  padding: 10px;
+}
+.grid-item{
+  display: flex;
+  border: 2px solid rgb(42, 40, 40);
+  border-radius: 8px;
+  padding: 12px;
+}
+.capa-filme {
+  width: 200px;
+  height: 300px;
+  margin-right: 10px;
+}
+.genero-duracao {
+  font-weight: bold;
+}
+.sinopse {
+  font-size: small;
+}
+.h2-btn {
+  display: flex;
+  justify-content: space-between;
+}
+.h2-btn > button {
+  margin: 12px;
+  background-color: rgb(55, 55, 171);
+  color: #FFF;
+  font-size: 14px;
+  font-weight: bold;
+  border-radius: 8px;
+  border: 0;
+  padding: 12px;
+  cursor: pointer;
+}
