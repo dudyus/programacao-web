@@ -1,0 +1,33 @@
+header {
+    background-color: rgb(110, 110, 226);
+    display: flex;
+    justify-content: space-between;
+    color: #FFF;
+  }
+  header img{
+    width: 120px;
+    margin: 12px;
+  }
+  header h1 {
+    margin-top: 30px;
+  
+  }
+
+  .cab1 {
+    display: flex;
+  }
+
+  .margemDireita {
+    margin-right: 60px;
+  }
+
+  .links {
+      text-decoration: none;
+      font-size: 20px;
+      font-weight: bold;
+      color: #fff;
+  }
+
+  .links:hover {
+    text-decoration: underline;
+  }
