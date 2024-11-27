@@ -1,0 +1,19 @@
+.novo {
+  width: 150px;
+}
+
+button {
+  background-color: #00f;
+  color: #fff;
+  font-size: 14px;
+  border: 0;
+  border-radius: 8px;
+  padding: 8px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.comentario {
+  font-size: small;
+  color: #4b4a4a;
+}

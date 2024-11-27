@@ -1,0 +1,10 @@
+.capaComentarios {
+  margin-left: 50px;
+  display: flex;
+}
+
+.capaComentarios > img {
+  width: 380px;
+  height: 500px;
+  margin-right: 50px;
+}
