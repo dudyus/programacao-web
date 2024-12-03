@@ -1,0 +1,32 @@
+.grid-item{
+    color: rgb(255, 255, 255);
+    display: flex;
+    border: 2px solid #353434;
+    border-radius: 8px;
+    padding: 12px;
+    background-color: #285943;
+}
+.sexo{
+    flex-direction: column;
+}
+.sexo textarea{
+    height: 50px;
+}
+.capa-planta{
+    width: 200px;
+    height: 200px;
+    margin-right: 10px;
+}
+.inform{
+    padding-top: 3px;
+    text-align: left;
+    text-transform: uppercase;
+}
+.nome{
+    text-transform: uppercase;
+}
+
+.resp {
+    padding-bottom: 10px;
+    text-align: left;
+}

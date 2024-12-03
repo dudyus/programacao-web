@@ -1,0 +1,34 @@
+[
+    {
+        "nome": "Margarida",
+        "luz": "Luz indireta",
+        "rega": "Média", 
+        "foto": "https://projetojardinando.com.br/wp-content/uploads/2022/12/390px-Leucanthemum-vulgare01.jpg",
+        "cuidado": "Médio",
+        "tamanho": "Médio"
+    },
+    {
+      "nome": "Zamioculca",
+      "luz": "Luz indireta",
+      "rega": "Baixa",
+      "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Zamioculcas.jpg/800px-Zamioculcas.jpg",
+      "cuidado": "Baixo",
+      "tamanho": "Médio"
+    },
+    {
+        "nome": "Espada de São Jorge",
+        "luz": "Luz indireta",
+        "rega": "Baixa",
+        "foto": "https://cdn.awsli.com.br/2500x2500/1334/1334796/produto/53480551/12f45c7991.jpg",
+        "cuidado": "Baixo",
+        "tamanho": "Médio"
+    },
+    {
+        "nome": "Cactos",
+        "luz": "Sol pleno",
+        "rega": "Baixa",
+        "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfNAjOJkE9xCO_RVYCrWfriwj_1HErOeJO8pJqbT9PYh3l7IBPSoRhLC6lT8t5BfxrMR0&usqp=CAU",
+        "cuidado": "Baixo",
+        "tamanho": "Pequeno"
+    }
+]
